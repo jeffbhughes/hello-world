@@ -1,1 +1,1 @@
-![Link to other document](./sample.md#uml-samples)
+Here is a simple [link](./sample.md#uml-samples)
